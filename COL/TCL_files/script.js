@@ -14,7 +14,7 @@ document.addEventListener("DOMContentLoaded", function() {
 
     const medicine = "You can save money on fancy medicines by "
 
-    const medicineOpts = ["going for a brisk walk.", "getting some sunshine.", "getting some fresh air.", "breathing in the countryside air.", "owning an electric car.", "placing large bushes outside the house. Mmm Oxygen.", "borrowing some antibiotics from a friend.", "filling your home with Peace Lillies, Bamboo and Snake Plants.", "using a bar of soap.", "following conspiracy theory Facebook group.", "burning down your local 5G mast."]
+    const medicineOpts = ["going for a brisk walk.", "getting some sunshine.", "getting some fresh air.", "breathing in the countryside air.", "owning an electric car.", "placing large bushes outside the house. Mmm Oxygen.", "borrowing some antibiotics from a friend.", "filling your home with Peace Lillies, Bamboo and Snake Plants.", "using a bar of soap.", "following your local conspiracy theory Facebook group.", "burning down your local 5G mast."]
 
     const outings = "Avoid getting "
 
