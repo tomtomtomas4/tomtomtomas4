@@ -10,7 +10,7 @@ document.addEventListener("DOMContentLoaded", function() {
 
     const heating = "If you can’t afford to put the heating on, why not simply "
 
-    const heatingOpts = ["start a bonfire outside your local flat roof pub?", "fire up the wood burning stove? You have got one, right?", "turn off the heating at whichever home you're not currently at?", "use your BBQ as a firepit in the front room? Crack a door a jar, obviously.", "go somewhere warmer?", "get a reasonably cheap BA flight to the middle east for a few weeks?", "dig around for an old unexploded bomb from the second world war?"]
+    const heatingOpts = ["start a bonfire outside your local flat roof pub?", "fire up the wood burning stove? You have got one, right?", "turn off the heating at whichever home you're not currently at?", "use your BBQ as a firepit in the front room? Crack a door a jar, obviously.", "go somewhere warmer?", "get a reasonably cheap BA flight to the middle east for a few weeks?", "dig around for an old unexploded bomb from the second world war? Toasty."]
 
     const medicine = "You can save money on fancy medicines by "
 
@@ -18,7 +18,7 @@ document.addEventListener("DOMContentLoaded", function() {
 
     const outings = "Avoid getting "
 
-    const outingsOpts = ["takeout", "Just Eat", "Deliveroo", "Dominoes", "Papa Johns", "Burger King", "KFC", "Pizza Hut", "Mcdonalds", "Chinese takeout", "Indian", "Fish & chips", "Kebabs", "M&S", "Tesco Finest", "your local farm shop food"]
+    const outingsOpts = ["takeout", "Just Eat", "Deliveroo", "Dominos", "Papa Johns", "Burger King", "KFC", "Pizza Hut", "Mcdonalds", "Chinese takeout", "Indian", "Fish & chips", "Kebabs", "M&S", "Tesco Finest", "your local farm shop food"]
 
     const goings = [" in, & you could probably stick the central heating on for a little while.", ". Instead, get yourself a Nigella cookbook.", ". Plan your weekly shop & get it delivered from Ocado or Waitrose.", " in. Waitrose has a budget range."]
 
