@@ -51,7 +51,12 @@ document.addEventListener("DOMContentLoaded", function() {
 
         switch(category){
             case "video":
-            text = video + videoSubs[randomNumber(0, videoSubs.length)];
+            let vid1 = randomNumber(0, videoSubs.length);
+            let vid2 = vid1;
+            while(vid1 == vid2){
+                vid2 = randomNumber(0, videoSubs.length);
+            }            
+            text = video + videoSubs[vid1] + " How about your " + videoSubs[vid2];
             break;
 
             case "heating":
